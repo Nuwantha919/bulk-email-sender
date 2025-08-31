@@ -99,7 +99,7 @@ if submitted:
 # ---------------------------
 st.markdown(
     """
-    <p style='text-align: center; color: gray; font-size: 12px;'>
+    <p style='text-align: center; color: gray; font-size: 20px;'>
         Created by Nuwantha Lakshan
     </p>
     """,
